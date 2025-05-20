@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá! Seja bem-vindo ao meu GitHub</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Especialista+em+TypeScript%2C+Node.js+e+Vue.js;Apaixonado+por+tecnologia+e+inovação" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack" />
 </p>
 
 ---
