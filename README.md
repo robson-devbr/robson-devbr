@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá! Seja bem-vindo ao meu GitHub</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack&color=7FFF00" />
 </p>
 
 ---
@@ -12,10 +12,10 @@ Sou um **Desenvolvedor Full Stack**, com sólida experiência em desenvolvimento
 
 💼 Atuo com:
 
-* Desenvolvimento orientado a APIs e microsserviços
-* Aplicações SPA e SSR
-* Integração com bancos relacionais e não-relacionais
-* CI/CD e conteinerização com Docker
+* Desenvolvimento orientado a APIs e microsserviços  
+* Aplicações SPA e SSR  
+* Integração com bancos relacionais e não-relacionais  
+* CI/CD e conteinerização com Docker  
 * Escrevendo código limpo e escalável com foco na experiência do usuário
 
 ---
@@ -28,8 +28,8 @@ Sou um **Desenvolvedor Full Stack**, com sólida experiência em desenvolvimento
   <img src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js" />
   <img src="https://img.icons8.com/color/48/typescript.png" alt="TypeScript" />
   <img src="https://nestjs.com/img/logo-small.svg" alt="NestJS" width="48" height="48" />
-  <img src="https://img.icons8.com/color/48/php.png" alt="PHP" />
-  <img src="https://simpleicons.org/icons/laravel.svg" alt="Laravel" width="48" height="48" />
+  <img src="https://img.icons8.com/officel/48/php-logo.png" alt="PHP" />
+  <img src="https://img.icons8.com/fluency/48/laravel.png" alt="Laravel" />
   <img src="https://img.icons8.com/color/48/spring-logo.png" alt="Spring Boot" />
   <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" />
@@ -56,23 +56,30 @@ Sou um **Desenvolvedor Full Stack**, com sólida experiência em desenvolvimento
   <img src="https://img.icons8.com/color/48/git.png" alt="Git" />
   <img src="https://img.icons8.com/color/48/github.png" alt="GitHub" />
   <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code" />
-  <img src="https://img.icons8.com/color/48/postman.png" alt="Postman" />
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="Postman" />
   <img src="https://vitejs.dev/logo-with-shadow.png" alt="Vite" width="48" height="48" />
   <img src="https://seeklogo.com/images/Y/yarn-logo-F5E7A65FA2-seeklogo.com.png" alt="Yarn" width="48" height="48" />
   <img src="https://img.icons8.com/color/48/npm.png" alt="NPM" />
   <img src="https://bun.sh/logo.svg" alt="Bun" width="48" height="48" />
 </div>
 
-
 ---
 
-## 📈 GitHub Stats
+## 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=robson-devbr&theme=react&show_icons=true&hide_title=true" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robson-devbr&layout=compact&theme=react&langs_count=8" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img width="300" src="https://github-readme-stats.vercel.app/api?username=robson-devbr&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true" />
+    </td>
+    <td>
+      <img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=robson-devbr&theme=chartreuse-dark&hide_border=true" />
+    </td>
+    <td>
+      <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robson-devbr&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact" />
+    </td>
+  </tr>
+</table>
 
 ---
 
