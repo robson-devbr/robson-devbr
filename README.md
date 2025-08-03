@@ -1,22 +1,22 @@
 <h1 align="center">👋 Olá! Seja bem-vindo ao meu GitHub</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack&color=7FFF00" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Desenvolvedor+Backend&color=7FFF00" />
 </p>
 
 ---
 
 ## 🚀 Sobre Mim
 
-Sou um **Desenvolvedor Full Stack**, com sólida experiência em desenvolvimento de aplicações web modernas, performáticas e escaláveis. Trabalho com foco em **TypeScript no backend e frontend**, utilizando as melhores práticas de arquitetura, testes, documentação e versionamento.
+Sou um **Desenvolvedor Backend**, com sólida experiência em desenvolvimento de APIs e microsserviços escaláveis, utilizando TypeScript e outras tecnologias modernas. Trabalho focado em **arquitetura limpa, testes automatizados, documentação e versionamento** para entregar soluções robustas e de alta performance.
 
 💼 Atuo com:
 
-* Desenvolvimento orientado a APIs e microsserviços  
-* Aplicações SPA e SSR  
-* Integração com bancos relacionais e não-relacionais  
-* CI/CD e conteinerização com Docker  
-* Escrevendo código limpo e escalável com foco na experiência do usuário
+* Desenvolvimento orientado a APIs REST e GraphQL  
+* Microsserviços e arquiteturas distribuídas  
+* Integração com bancos relacionais e NoSQL  
+* Containerização e orquestração (Docker, Kubernetes)  
+* Automação CI/CD e monitoramento
 
 ---
 
@@ -34,19 +34,6 @@ Sou um **Desenvolvedor Full Stack**, com sólida experiência em desenvolvimento
   <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" />
   <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB" />
-</div>
-
-### 💻 Front-end
-
-<div align="center">
-  <img src="https://img.icons8.com/color/48/react-native.png" alt="React.js" />
-  <img src="https://img.icons8.com/color/48/vue-js.png" alt="Vue.js" />
-  <img src="https://img.icons8.com/color/48/angularjs.png" alt="Angular" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="Next.js" width="48" height="48" />
-  <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript" />
-  <img src="https://img.icons8.com/color/48/html-5.png" alt="HTML" />
-  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS" />
-  <img src="https://img.icons8.com/color/48/tailwind_css.png" alt="Tailwind CSS" />
 </div>
 
 ### 🧰 Ferramentas e DevOps
@@ -67,16 +54,10 @@ Sou um **Desenvolvedor Full Stack**, com sólida experiência em desenvolvimento
 
 ## 📊 Estatísticas do GitHub
 
-<table>
+<table align="center">
   <tr>
-    <td>
-      <img width="300" src="https://github-readme-stats.vercel.app/api?username=robson-devbr&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true" />
-    </td>
-    <td>
-      <img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=robson-devbr&theme=chartreuse-dark&hide_border=true" />
-    </td>
-    <td>
-      <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robson-devbr&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact" />
+    <td align="center">
+      <img src="https://streak-stats.demolab.com?user=robson-devbr&theme=gruvbox&hide_border=true" alt="GitHub Streak" width="380px"/>
     </td>
   </tr>
 </table>
